@@ -61,5 +61,14 @@ console.log(3 + 4 * 5 % 6);
 */
 
 
-console.log(+true);
-console.log(+"");
+//console.log(+true);
+//console.log(+"");
+
+let num1, num2, num3
+num1 = num2 = num3 = 2+2 
+
+let gameCounter  = 100
+gameCounter++;
+++gameCounter;
+console.log(gameCounter);  //Prefix operators and post please Read
+//https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators
