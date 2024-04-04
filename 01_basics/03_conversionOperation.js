@@ -28,6 +28,19 @@ let SomeNumber = 33
 
 let StringNumber = String(SomeNumber)
 
-console.log(typeof StringNumber)
-console.log(StringNumber);
+//console.log(typeof StringNumber)
+//console.log(StringNumber);
 
+// *****************operation************
+
+let value = 3
+let negvalue= -value
+// console.log(negvalue);
+
+/*console.log(2+2);
+console.log(2-2);
+console.log(2*2);
+console.log(2**3);
+console.log(2/3);
+console.log(2%3);
+*/
